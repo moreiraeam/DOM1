@@ -1,0 +1,29 @@
+.butao {
+    background-color: green;
+    border: none;
+    padding: 20px;
+    border-radius: 1rem;
+    color: white;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.alt {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #ddd;
+  }
+
+  .novo {
+    background-color: #4CAF50;
+    color: white;
+  }
